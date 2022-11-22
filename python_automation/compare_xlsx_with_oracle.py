@@ -1,3 +1,7 @@
+
+# Created by Nardelli17 
+# Date 21-11-2022.
+
 import pandas as pd
 import cx_Oracle
 
