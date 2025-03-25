@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables file
+.env
+
+# Ignore database volumes (Docker)
+mongo_data/
+
+# Ignore logs
+*.log
+
+# Ignore VSCode settings (optional)
+.vscode/
